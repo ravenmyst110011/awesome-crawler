@@ -1,3 +1,5 @@
+![AI_Image2](AI_Image2.jpeg)
+
 # Cybersecurity Jobs Scraper Using RapidAPI and Python
 This project is a Python-based web scraper that retrieves cybersecurity job listings using the RapidAPI Job Search API. It extracts key details about job listings such as the title, company, location, date posted, skills, qualifications, and other fields, then stores this information in a CSV file.
 
