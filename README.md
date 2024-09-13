@@ -12,9 +12,14 @@ VS Code (Optional, but recommended) - Download VS Code
 Installing Required Libraries
 You need to install the required Python libraries before running the script.
 
-bash
 Copy code
+<!-- python code block -->
+```python
 pip install requests
+```
+
+
+
 API Setup
 This script uses the RapidAPI Job Search API to get cybersecurity job listings. You'll need to sign up for a RapidAPI account and get an API key.
 
